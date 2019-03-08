@@ -1,0 +1,8 @@
+1 - Instale o Node
+2 - Execute o comando:
+    npx create-react-app [NOMEDAAPLICACAO]
+
+    nota: Não pode conter letras maiusculas
+
+    ex:
+        npx create-react-app jogodavelha
